@@ -1,4 +1,4 @@
-let nums = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'];
+let nums = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
 process.stdin.setRawMode(true);
 process.stdin.setEncoding('utf8');
 
